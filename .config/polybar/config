@@ -101,7 +101,7 @@ font-4 = "Font Awesome 5 Brands:pixelsize=8;1"
 
 modules-left = i3 xwindow
 modules-center = 
-modules-right = sep networkspeeddown sep memory2 sep cpu2 sep pavolume sep arch-aur-updates sep date sep
+modules-right = sep networkspeeddown sep memory2 sep cpu2 sep pavolume sep date sep
 
 separator = 
 
@@ -821,7 +821,7 @@ type = internal/xwindow
 ;   %title%
 ; Default: %title%
 label = %title%
-label-maxlen = 50
+label-maxlen = 100
 
 format-prefix = "  "
 format-foreground = ${colors.foreground}
