@@ -32,7 +32,6 @@ beaver
 viewnior
 flameshot
 gimp
-amule
 chromium
 firefox
 hexchat
@@ -44,7 +43,6 @@ tor-browser
 claws-mail
 liferea
 steam
-chiaki-git
 vlc
 kdenlive
 clipgrab
