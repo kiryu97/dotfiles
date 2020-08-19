@@ -40,14 +40,11 @@ remmina
 qbittorrent
 telegram-desktop
 tor-browser
-claws-mail
 liferea
 steam
 vlc
-kdenlive
 clipgrab
 obs-studio-git
-audacity
 quodlibet
 handbrake
 libreoffice-still
