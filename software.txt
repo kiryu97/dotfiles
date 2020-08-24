@@ -1,0 +1,27 @@
+LINUX:
+    Firefox (Complete How-To)
+		-uBlock Origin (block global third party and javascript)
+		-ClearURLs
+		-Bitwarden
+		-Firefox Multi-Account Containers
+	Atom:
+		Theme: atom-material-syntax
+		Packages: atom-file-icons, autocomplete-python, autosave-onchange, emmet, minimap, python-autopep8, script
+        		
+	WM: i3 + polybar + i3exit (AUR) + custom red theme for rofi + install Yaru icons + theme (AUR)
+	DEVELOPMENT: Atom + XAMPP (AUR) + neovim + beaver
+	Graphics: Viewnior + Flameshot + Gimp + Skanlite
+	Internet: Chromium + Firefox + Hexchat + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Tor Browser (AUR) + Liferea (AUR) + Steam
+	Multimedia: VLC + KdenLive + Clipgrab + OBS + Audacity + QuodLibet + Handbrake
+	Office: LibreOffice + llpp
+	System: pamac + Termite + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt
+	Utilities: xarchiver (zip, unzip, p7zip, unrar) + galculator + Gnome Disks + lxappearance (yaru dark theme and icons from AUR) + nitrogen + PcManFm (configure terminal and archiver) + vifi + scrcpy + rofi + udiskie
+
+try: zsh (chsh -s $(which zsh)), oh-my-zsh (git, zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion), kitty/alacritty
+	
+
+
+ANDROID: -> Graphene OS (private dns.adguard.com) + FDroid + Youtube Vanced
+
+-Fdroid: AnySoftKeyboard, Apple Location Service (microg), Aurora Store, Bitwarden, Gadgetbridge, Simple Gallery, KDE Connect, NewPipe, PassAndroid, QKSMS, QR Scanner, Tachiyomi (mangasee), Tasks, Telegram, Tor Browser, VLC
+-Aurora Store: Aliexpress, Amazon, Here We Go, Hype, Instant Gaming, N26, Notebloc, OneDrive, Oujo for AniList, Outlook, Relay, Skype, Steam, Tricount, WhatsApp
