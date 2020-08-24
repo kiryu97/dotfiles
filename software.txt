@@ -17,6 +17,7 @@ LINUX:
 	System: pamac + Termite + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt
 	Utilities: xarchiver (zip, unzip, p7zip, unrar) + galculator + Gnome Disks + lxappearance (yaru dark theme and icons from AUR) + nitrogen + PcManFm (configure terminal and archiver) + vifi + scrcpy + rofi + udiskie
 
+for terminal emulator: sudo update-alternatives --config x-terminal-emulator
 try: zsh (chsh -s $(which zsh)), oh-my-zsh (git, zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion), kitty/alacritty
 	
 
