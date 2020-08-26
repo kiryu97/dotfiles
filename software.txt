@@ -19,6 +19,7 @@ LINUX:
 
 for terminal emulator: sudo update-alternatives --config x-terminal-emulator
 try: zsh (chsh -s $(which zsh)), oh-my-zsh (from github page) (zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion), kitty/alacritty
+zsh: https://www.youtube.com/watch?v=4KBuPCeF9Gc
 	
 
 
