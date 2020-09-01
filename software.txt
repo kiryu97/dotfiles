@@ -9,16 +9,16 @@ LINUX:
 		Packages: atom-file-icons, autocomplete-python, autosave-onchange, emmet, minimap, python-autopep8, script
         		
 	WM: Manjaror i3 + polybar + i3exit (AUR)
-	DEVELOPMENT: Atom + XAMPP (AUR) + neovim + beaver
-	Graphics: Viewnior + Flameshot + Gimp + Skanlite
+	DEVELOPMENT: Atom + neovim + beaver
+	Graphics: Viewnior + Flameshot + Gimp
 	Internet: Chromium + Firefox + Hexchat + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Tor Browser (AUR) + Liferea + Steam
-	Multimedia: VLC + KdenLive + Clipgrab + OBS + Audacity + QuodLibet + Handbrake
+	Multimedia: VLC + Clipgrab + QuodLibet + Handbrake
 	Office: LibreOffice + llpp
-	System: pamac + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt
+	System: alacritty + zsh + pamac + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt
 	Utilities: xarchiver (zip, unzip, p7zip, unrar) + galculator + Gnome Disks + lxappearance + nitrogen + PcManFm (configure terminal and archiver) + vifm + scrcpy + rofi + udiskie
 
 for terminal emulator: sudo update-alternatives --config x-terminal-emulator
-try: zsh (chsh -s $(which zsh)), oh-my-zsh (from github page) (zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion), alacritty
+zsh (chsh -s $(which zsh)), oh-my-zsh (from github page) (zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion)
 zsh: https://www.youtube.com/watch?v=4KBuPCeF9Gc
 	
 
