@@ -25,7 +25,6 @@ echo "Installation of software"
 
 list=(
 atom
-xampp
 neovim
 i3exit
 beaver
@@ -44,12 +43,10 @@ liferea
 steam
 vlc
 clipgrab
-obs-studio-git
 quodlibet
 handbrake
 libreoffice-still
 llpp
-termite
 bashtop
 qemu
 virt-manager
@@ -65,13 +62,13 @@ xarchiver
 galculator
 gnome-disk-utility
 lxappearance
-yaru-gtk-theme
-yaru-icon-theme
 rofi
 nitrogen
 pcmanfm
 bitwarden
 udiskie
+alacritty
+zsh
 )
 
 count=0
