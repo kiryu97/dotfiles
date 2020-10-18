@@ -1,0 +1,36 @@
+LINUX:
+    Firefox (Complete How-To)
+        -uBlock Origin
+        -ClearURLs
+        -Bitwarden
+        -Firefox Multi-Account Containers
+
+INSTALLED:  
+    Graphics: Viewnior + Gimp
+    Internet: Hexchat
+    Multimedia: VLC
+    Office: epdfview
+    System: pamac
+    Utilities: xarchiver + lxappearance + nitrogen + PcManFm
+
+TO INSTALL:
+    Distro: Manjaro i3
+    DEVELOPMENT: Sublime Text (external site) + neovim + beaver
+    Graphics: Flameshot
+    Internet: Brave + Firefox + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Tor Browser (AUR) + Liferea + Steam
+    Multimedia: Clipgrab + Handbrake
+    Office: LibreOffice
+    System: Alacritty + zsh + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt
+    Utilities: galculator + Gnome Disks + vifm + scrcpy + rofi
+
+zsh (chsh -s $(which zsh)), oh-my-zsh (from github page) (zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion)
+zsh: https://www.youtube.com/watch?v=4KBuPCeF9Gc
+    
+Manjaro i3 to remove: xfburn palemoon-bin
+
+
+ANDROID: -> Graphene OS (private dns.adguard.com) + FDroid + Youtube Vanced
+
+-Fdroid: AnySoftKeyboard, Apple Location Service (microg), Aurora Store, Bitwarden, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, MTG Familiar, NewPipe, PassAndroid, QKSMS, QR Scanner, Tachiyomi (mangasee), Tasks, Telegram, Tor Browser, VLC
+-Aurora Store: Amazon, Hype, Ikea, Instant Gaming, Google Maps, Notebloc, OneDrive, Oujo for AniList, Outlook, Relay, Skype, Steam, Subito, Tricount, WhatsApp
+
