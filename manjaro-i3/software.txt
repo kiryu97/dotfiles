@@ -21,7 +21,7 @@ TO INSTALL:
     Multimedia: Clipgrab + Handbrake
     Office: LibreOffice
     System: Alacritty + zsh + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt
-    Utilities: galculator + Gnome Disks + vifm + scrcpy + rofi + pavucontrol (+ pulseaudio + pulseaudio-alsa, use pulseaudio --check, -D)
+    Utilities: galculator + Gnome Disks + vifm + scrcpy + rofi + redshift + pavucontrol (+ pulseaudio + pulseaudio-alsa, use pulseaudio --check, -D)
 
 zsh (chsh -s $(which zsh)), oh-my-zsh (from github page) (zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion)
 zsh: https://www.youtube.com/watch?v=4KBuPCeF9Gc
