@@ -15,7 +15,7 @@ INSTALLED:
 
 TO INSTALL:
     Distro: Manjaro i3
-    DEVELOPMENT: Sublime Text (external site) + neovim + beaver
+    DEVELOPMENT: Sublime Text (external site) + neovim + pluma
     Graphics: Flameshot
     Internet: Brave + Firefox + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Tor Browser (AUR) + Liferea + Steam
     Multimedia: Clipgrab + Handbrake
