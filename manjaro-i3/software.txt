@@ -31,5 +31,5 @@ Manjaro i3 to remove: xfburn palemoon-bin volumeicon
 
 ANDROID: -> CalyxOS (private dns.adguard.com) + FDroid + Youtube Vanced
 
--Fdroid: AnySoftKeyboard, Aurora Store, Bitwarden, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, NewPipe, QKSMS, QR Scanner, Tachiyomi (mangasee), Tasks, Telegram, Termux
--Aurora Store: Amazon, Hype, Instant Gaming, Ludomedia, Google Maps, (LastPass), (MyAnimeList), Notebloc, OneDrive, Oujo for AniList, Outlook, PhotoDirector, Relay, Rocket Chat, Skype, Spotify, Steam, Subito, Teams, Tricount, WhatsApp
+-Fdroid: AnySoftKeyboard, Aurora Store, Bitwarden, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, NewPipe, Nextcloud QKSMS, QR Scanner, Tachiyomi (mangasee), Tasks, Telegram, Termux, Tusky
+-Aurora Store: Amazon, Deliveroo, Hype, Instant Gaming, (LastPass), Ludomedia, Google Maps, (MyAnimeList), Notebloc, Old Wild West, OneDrive, Oujo for AniList, Outlook, PhotoDirector, Relay, Rocket Chat, Skype, Spotify, Steam, Subito, Teams, WhatsApp
