@@ -13,7 +13,7 @@ INSTALLED:
     System: pamac
     Utilities: xarchiver + lxappearance + nitrogen + PcManFm
 
-TO INSTALL:
+TO INSTALL: (https://wiki.gnome.org/Apps)
     Distro: Manjaro i3
     DEVELOPMENT: Sublime Text (external site) + neovim + pluma
     Graphics: Flameshot
