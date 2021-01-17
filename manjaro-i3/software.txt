@@ -19,7 +19,7 @@ TO INSTALL:
     Graphics: Flameshot
     Internet: Brave + Firefox + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Tor Browser (AUR) + Liferea + Steam
     Multimedia: Clipgrab + Handbrake
-    Office: LibreOffice
+    Office: LibreOffice + Evince
     System: Alacritty + zsh + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt
     Utilities: galculator + Gnome Disks + vifm + scrcpy + rofi + redshift + pavucontrol (+ pulseaudio + pulseaudio-alsa + pasystray, use pulseaudio --check, -D), hardinfo
 
