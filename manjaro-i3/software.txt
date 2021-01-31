@@ -4,6 +4,7 @@ LINUX:
         -ClearURLs
         -Bitwarden
         -Firefox Multi-Account Containers
+        -Tabliss
 
 INSTALLED:  
     Graphics: Viewnior + Gimp
@@ -17,11 +18,11 @@ TO INSTALL: (https://wiki.gnome.org/Apps)
     Distro: Manjaro i3
     DEVELOPMENT: Sublime Text (external site) + neovim + pluma
     Graphics: Flameshot
-    Internet: Brave + Firefox + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Tor Browser (AUR) + Liferea + Steam
-    Multimedia: Clipgrab + Handbrake
+    Internet: Brave + Librewolf-bin + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Tor Browser (AUR) + Liferea + Steam
+    Multimedia: Clipgrab + Handbrake + Spotify
     Office: LibreOffice + Evince
-    System: Alacritty + zsh + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt
-    Utilities: galculator + Gnome Disks + vifm + scrcpy + rofi + redshift + pavucontrol (+ pulseaudio + pulseaudio-alsa + pasystray, use pulseaudio --check, -D), hardinfo
+    System: Alacritty + zsh + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt + HardInfo
+    Utilities: bluetooth-manager + galculator + Gnome Disks + vifm + scrcpy + rofi + redshift + pavucontrol (+ pulseaudio + pulseaudio-alsa + pasystray, use pulseaudio --check, -D) + hardinfo
 
 zsh (chsh -s $(which zsh)), oh-my-zsh (from github page) (zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion)
 zsh: https://www.youtube.com/watch?v=4KBuPCeF9Gc
