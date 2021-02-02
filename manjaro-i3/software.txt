@@ -30,9 +30,9 @@ zsh: https://www.youtube.com/watch?v=4KBuPCeF9Gc
 Manjaro i3 to remove: xfburn palemoon-bin volumeicon
 
 
-ANDROID: -> CalyxOS (private dns.adguard.com) + FDroid + Youtube Vanced
+ANDROID: -> CalyxOS (private dns.adguard.com) + FDroid + Youtube Vanced Manager (microg + vanced + music)
 
--Fdroid: Aegis, AnySoftKeyboard, Aurora Store, Bitwarden, Bromite, Carnet, DAVx5, Etar, Fennec, Forecastie, Gadgetbridge, Simple Gallery, K9-Mail, KDE Connect, Les Pas, Nextcloud, QKSMS, QR Scanner, Sharik, Tachiyomi (mangasee), Tasks, Telegram, Wireguard
--Aurora Store: Amazon, Bank, Excel, Hype, IKEA, Instant Gaming, Ludomedia, Google Maps, Notebloc, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Relay, Rocketbook, Spotify, Steam, Teams, WhatsApp
+-Fdroid: Aegis, AnySoftKeyboard, Aurora Store, Bitwarden, Bromite, Carnet, DAVx5, Etar, Fennec, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, Les Pas, Nextcloud, QKSMS, QR Scanner, Sharik, Tachiyomi (mangasee), Tasks, Wireguard
+-Aurora Store: Amazon, Bank, Chrome, Excel, Hype, IKEA, Instant Gaming, Ludomedia, Google Maps, Notebloc, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Relay, Rocketbook, Steam, Teams, Telegram, WhatsApp
 
 https://www.youtube.com/watch?v=7Pe-Cv0tnLs
