@@ -16,22 +16,36 @@ INSTALLED:
 
 TO INSTALL: (https://wiki.gnome.org/Apps)
     Distro: Manjaro i3
-    DEVELOPMENT: Sublime Text (external site) + neovim + pluma + Jetbrarins Toolbox
+    DEVELOPMENT: Sublime Text (external site) + neovim + pluma + Jetbrains Toolbox (CLion + DataGrip + PyCharm + WebStorm)
     Graphics: Flameshot
     Internet: Brave + Librewolf-bin + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Liferea + Steam
-    Multimedia: Clipgrab + Handbrake + Spotify
+    Multimedia: Clipgrab + Handbrake + OBS Studio
     Office: LibreOffice + Evince
     System: Alacritty + zsh + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt + HardInfo
-    Utilities: bluetooth-manager + galculator + Gnome Disks + vifm + scrcpy + rofi + redshift + pavucontrol (+ pulseaudio + pulseaudio-alsa + pasystray, use pulseaudio --check, -D) + hardinfo
+    Utilities: galculator + Gnome Disks + vifm + scrcpy + rofi + redshift + hardinfo
 
 zsh (chsh -s $(which zsh)), oh-my-zsh (from github page) (zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion)
-zsh: https://www.youtube.com/watch?v=4KBuPCeF9Gc
+zsh: https://www.youtube.com/watch?v=4KBuPCeF9Gc1
 
 Microphone:
 - sudo nano /etc/pulse/default.pa
 - (search echo) load-module module-echo-cancel
 - pulseaudio -k
-    
+
+Bluetooth:
+- pulseaudio-bluetooth bluez bluez-utils
+- nano /etc/pulse/system.pa
+- load-module module-bluetooth-policy + module-bluetooth-discover
+- bluetoothctl
+
+Pulseaudio:
+- bluetooth-manager
+- pavucontrol
+- pulseaudio
+- pulseaudio-alsa
+- pasystray
+- pulseaudio --check, -D
+
 Manjaro i3 to remove: xfburn palemoon-bin volumeicon
 
 RSS feeds:
