@@ -46,6 +46,10 @@ Pulseaudio:
 - pasystray
 - pulseaudio --check, -D
 
+Logitech:
+- piper
+- solaar
+
 Manjaro i3 to remove: xfburn palemoon-bin volumeicon
 
 RSS feeds:
