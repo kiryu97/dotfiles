@@ -16,7 +16,7 @@ INSTALLED:
 
 TO INSTALL: (https://wiki.gnome.org/Apps)
     Distro: Manjaro i3
-    DEVELOPMENT: Sublime Text (external site) + Atom + neovim + pluma + Jetbrains Toolbox (CLion + DataGrip + PyCharm + WebStorm)
+    DEVELOPMENT: Code + neovim + pluma + Jetbrains Toolbox (CLion + DataGrip + PyCharm + WebStorm)
     Graphics: Flameshot
     Internet: Brave + Librewolf-bin + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Liferea + Steam
     Multimedia: Clipgrab + Handbrake + OBS Studio
@@ -61,6 +61,6 @@ RSS feeds:
 ANDROID: -> CalyxOS (private dns.adguard.com) + FDroid + Youtube Vanced Manager (microg + vanced + music)
 
 -Fdroid: AnySoftKeyboard, Asteroid OS, Aurora Store, Bitwarden, Bromite, Carnet, DAVx5, Editor, Etar, Feeder, Fennec, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, Les Pas, Nextcloud, QKSMS, QR Scanner, Tachiyomi (mangasee), Tasks, Wireguard
--Aurora Store: Amazon, Bank, Chrome, Synology Drive, DroidCam, Ebay, Excel, Hype, IKEA, Linkedin, Ludomedia, Google Maps, Notebloc, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Protonmail, Relay, Rocketbook, Shazam, Slack, Steam, Teams, Telegram, WhatsApp
+-Aurora Store: Amazon, Bank, Chrome, Synology Drive, DroidCam, Ebay, Excel, Hype, IKEA, Linkedin, Ludomedia, Google Maps, Notebloc, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Protonmail, Ratio Blloc, Relay, Rocketbook, Shazam, Slack, Steam, Teams, Telegram, WhatsApp
 
 https://www.youtube.com/watch?v=7Pe-Cv0tnLs
