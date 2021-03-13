@@ -59,8 +59,8 @@ Logitech:
 Manjaro i3 to remove: xfburn palemoon-bin volumeicon
 
 RSS feeds:
--CSS: reddit, CSS tricks, Hackernoon CSS
--JS: reddit, reactjs, vuejs news, echojs, hackernoon react
+-CSS: CSS tricks, Hackernoon CSS
+-JS: reactjs, vuejs news, echojs, hackernoon react
 -Web: dev.to, Hackernoon, dailydevlinks, Hackernoon coding
 
 
