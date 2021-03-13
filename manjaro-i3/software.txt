@@ -6,6 +6,8 @@ LINUX:
         -Firefox Multi-Account Containers
         -Tabliss
 
+Try: Void Linux + Spectrwm (Dunst)
+
 INSTALLED:  
     Graphics: Viewnior + Gimp
     Internet: Hexchat
