@@ -24,8 +24,14 @@ TO INSTALL: (https://wiki.gnome.org/Apps)
     System: Alacritty + zsh + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt + HardInfo
     Utilities: galculator + Gnome Disks + vifm + scrcpy + rofi + redshift
 
-zsh (chsh -s $(which zsh)), oh-my-zsh (from github page) (zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion)
-zsh: https://www.youtube.com/watch?v=4KBuPCeF9Gc1
+zsh:
+- zsh
+- chsh -s $(which zsh)
+- oh-my-zsh (from github page) (zsh-syntax-highlighting, zsh-autosuggestions, git-flow-completion)
+- https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
+- export HOME=/home/...user...
+- export ZSH=$HOME/.oh-my-zsh
+- plugins=(git adb cp docker docker-compose emacs npm pip pipenv postgres redis-cli)
 
 Microphone:
 - sudo nano /etc/pulse/default.pa
