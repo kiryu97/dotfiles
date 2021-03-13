@@ -8,6 +8,11 @@ LINUX:
 
 Try: Void Linux + Spectrwm (Dunst)
 
+Theming:
+- matcha-gtk-theme (aliz dark)
+- qogir-icon-theme
+- mononoki nerd font
+
 INSTALLED:  
     Graphics: Viewnior + Gimp
     Internet: Hexchat
