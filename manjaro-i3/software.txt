@@ -6,7 +6,7 @@ LINUX:
         -Firefox Multi-Account Containers
         -Tabliss
 
-Try: Void Linux + Spectrwm (Dunst, Fish)
+Try: Void Linux + Spectrwm (Dunst, Fish, Dzen)
 
 Theming:
 - matcha-gtk-theme (aliz dark)
