@@ -6,7 +6,7 @@ LINUX:
         -Firefox Multi-Account Containers
         -Tabliss
 
-Try: Void Linux + Spectrwm (Dunst, Fish, Dzen)
+Try: Void Linux + i3 (Dunst, Fish, Dzen) + polybar
 
 Theming:
 - matcha-gtk-theme (aliz dark)
@@ -30,6 +30,8 @@ TO INSTALL: (https://wiki.gnome.org/Apps)
     Office: LibreOffice + Evince
     System: Alacritty + zsh + bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + Veracrypt + HardInfo
     Utilities: galculator + Gnome Disks + vifm + scrcpy + rofi + redshift
+    Other: fish-shell spacefm kitty lightdm lightdm-gtk-greeter qutebrowser emacs git polybar
+    Git: doom-emacs
 
 zsh:
 - zsh
