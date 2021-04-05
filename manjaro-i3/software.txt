@@ -65,8 +65,6 @@ Logitech:
 - piper
 - solaar
 
-Manjaro i3 to remove: xfburn palemoon-bin volumeicon
-
 RSS feeds:
 -CSS: CSS tricks, Hackernoon CSS
 -JS: reactjs, vuejs news, echojs, hackernoon react
@@ -75,7 +73,7 @@ RSS feeds:
 
 ANDROID: -> CalyxOS (private dns.adguard.com) + FDroid + Youtube Vanced Manager (microg + vanced + music)
 
--Fdroid: AnySoftKeyboard, Asteroid OS, Aurora Store, Bitwarden, Bromite, Carnet, DAVx5, Editor, Etar, Feeder, Fennec, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, Les Pas, Nextcloud, QKSMS, QR Scanner, Tachiyomi (mangasee), Tasks, Wireguard
+-Fdroid: AnySoftKeyboard, Asteroid OS, Aurora Store, Bitwarden, Bromite, Carnet, DAVx5, Dawn, Editor, Etar, Feeder, Fennec, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, Les Pas, Nextcloud, QKSMS, QR Scanner, Tachiyomi (mangasee), Tasks, Wireguard
 -Aurora Store: Amazon, Bank, Chrome, Synology Drive, DroidCam, Ebay, Excel, Hype, IKEA, Linkedin, Ludomedia, Google Maps, Notebloc, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Protonmail, Ratio Blloc, Relay, Rocketbook, Shazam, Slack, Steam, Teams, Telegram, WhatsApp
 
 https://www.youtube.com/watch?v=7Pe-Cv0tnLs
