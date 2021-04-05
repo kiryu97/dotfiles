@@ -1,11 +1,13 @@
 sudo xbps-install -Su
-sudo xbps-install git i3-gaps i3status lightdm lightdm-gtk3-greeter kitty fish-shell nano xorg pluma neofetch vscode polybar firefox lxappearance nitrogen network-manager-applet clipit flameshot xz tar wget unzip p7zip zip xsel xfce4-power-manager pulseaudio pasystray pavucontrol htop viewnior vlc evince libreoffice redshift-gtk chromium telegram-desktop emacs scrot gimp kdeconnect remmina qbittorrent liferea clipgrab handbrake obs virtualbox-ose timeshift gnome-multi-writer hardinfo galculator-gtk3 udiskie gvfs arandr (lxsession) ntfs-3g elogind nemo dconf-editor cups cups-filters gutenprint system-config-printer (lxqt-sudo) qt5ct kvantum dunst file-roller piper Solaar lxqt-policykit vim gparted xsel wget
+sudo xbps-install git i3-gaps i3status lightdm lightdm-gtk3-greeter kitty fish-shell nano xorg pluma neofetch vscode polybar firefox lxappearance nitrogen network-manager-applet clipit flameshot xz tar wget unzip p7zip zip xsel xfce4-power-manager pulseaudio pasystray pavucontrol htop viewnior vlc evince libreoffice redshift-gtk chromium telegram-desktop emacs scrot gimp kdeconnect remmina qbittorrent liferea clipgrab handbrake obs virtualbox-ose timeshift gnome-multi-writer hardinfo galculator-gtk3 udiskie gvfs arandr ntfs-3g elogind nemo dconf-editor cups cups-filters gutenprint system-config-printer (lxqt-sudo) qt5ct kvantum dunst file-roller piper Solaar lxqt-policykit vim gparted xsel wget octoxbps blueman bluez
 
 sudo nano /etc/lightdm/lightdm.conf (greeter-session= lightdm-gtk-greeter)
+sudo nano /etc/lightdm/lightdm-gtk-greeter.conf (active-monitor=0/something else)
 sudo ln -s /etc/sv/lightdm /var/service
 sudo ln -s /etc/sv/dbus /var/service
 sudo ln -s /etc/sv/elogind /var/service
 sudo ln -s /etc/sv/cupsd /var/service
+sudo ln -s /etc/sv/bluetoothd /var/service + sudo usermod -a -G bluetooth loki
 sudo chsh -s tilde which fish tilde
 sudo chsh -s tilde which fish tilde loki
 (spacefm set terminal to kitty and SU editor to pluma)
@@ -25,7 +27,7 @@ sudo ln -s /home/$USER/.config/gtk-3.0/settings.ini /etc/gtk-3.0/settings.ini
 sudo ln -s /home/$USER/.gtkrc-2.0 /etc/gtk-2.0/gtkrc
 udiskie permissions
 gsettings set org.cinnamon.desktop.default-applications.terminal exec kitty
-Add nemo Action 'Open as Root', exec = lxsudo -d nemo %P
+Add nemo Action 'Open as Root', exec = lxsudo -d nemo %P (not needed)
 /home/$USER/.config/fish/functions/fish_prompt.fish -> export QT_QPA_PLATFORMTHEME="qt5ct"
 sudo mkdir $HOME/.config/dunst/
 sudo cp /etc/dunst/dunstrc $HOME/.config/dunst/dunstrc
@@ -35,6 +37,8 @@ sudo cp /usr/share/solaar/udev-rule.d/42-logitech-unify-permissions.rules /etc/u
 make a bookmark in nemo with $HOME/.local/share/Trash/files/
 sudo nano /etc/elogind/logind.conf -> IdleActin=lock, IdleActionSec=30min
 !! Remember to run lxde-policykit-agent in i3 config
+code oss -> window.titleBarStyle = custom
+code oss -> python extension + pylint
 
 
 LINUX:
