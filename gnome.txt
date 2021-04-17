@@ -14,6 +14,9 @@ LINUX:
         -ClearURLs
         -Bitwarden
         -Firefox Multi-Account Containers
+		-Firefox Relay
+		-I don't care about cookies
+		-Dark Reader
 
 Theming:
 - mononoki nerd font
@@ -62,7 +65,7 @@ RSS feeds:
 
 ANDROID: -> CalyxOS (private dns.adguard.com) + FDroid + Youtube Vanced Manager (microg + vanced + music)
 
--Fdroid: AnySoftKeyboard, Aurora Store, Bitwarden, Bromite, Editor, Etar, Feeder, Fennec, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, QKSMS, QR Scanner, Tachiyomi (mangasee), Tasks
+-Fdroid: AnySoftKeyboard, Aurora Store, Bitwarden, Bromite, Dawn, Editor, Etar, Feeder, Fennec, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, QKSMS, QR Scanner, Tachiyomi (mangasee)
 -Aurora Store: Amazon, Bank, Chrome, DroidCam, Ebay, Excel, Hype, Icedrive, IKEA, Linkedin, Google Maps, Notebloc, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Prime Video, Protonmail, Ratio Blloc, Relay, Rocketbook, Shazam, Slack, Steam, Teams, Telegram, TickTick, WhatsApp
 
 https://www.youtube.com/watch?v=7Pe-Cv0tnLs
