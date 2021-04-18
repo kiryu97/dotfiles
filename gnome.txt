@@ -1,9 +1,6 @@
 sudo chsh -s tilde which fish tilde
 sudo chsh -s tilde which fish tilde loki
 kvantum theme -> moe dark red
-nerd-fonts download from nerdfonts.com (install in ./.local/share/fonts/)
-mononoki nerd font (firefox), fc-cache -fv
-rofi theme -> merah
 /home/$USER/.config/fish/functions/fish_prompt.fish -> export QT_QPA_PLATFORMTHEME="qt5ct"
 code oss -> window.titleBarStyle = custom
 code oss -> python extension + pylint
@@ -14,54 +11,32 @@ LINUX:
         -ClearURLs
         -Bitwarden
         -Firefox Multi-Account Containers
-		-Firefox Relay
-		-I don't care about cookies
-		-Dark Reader
+	-Firefox Relay
+	-I don't care about cookies
+	-Dark Reader
 
-Theming:
-- mononoki nerd font
 
 TO INSTALL: (https://wiki.gnome.org/Apps)
     Distro: Ubuntu
     DEVELOPMENT: Atom + pluma + Jetbrains Toolbox (CLion + DataGrip + PyCharm + WebStorm) + Virtualbox
     Graphics: Flameshot
-    Internet: Firefox + Chromium / Brave + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Liferea + Steam
-    Multimedia: Clipgrab + Handbrake + OBS Studio + Celluloid / VLC + Viewnior + Gimp
+    Internet: Firefox + Chromium + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Liferea + Steam
+    Multimedia: Clipgrab + Handbrake + OBS Studio + VLC + Gimp
     Office: LibreOffice + Evince
-    System: bashtop + qemu + virt-manager + ebtables + Timeshift + MultiWriter + HardInfo + gparted
-    Utilities: galculator + Gnome Disks + vifm + scrcpy + rofi + redshift-gtk
-    Other: fish-shell kitty qutebrowser neofetch piper solaar blueman bluez
-    Git: doom-emacs + rpcs3
-	Snap: Ice Drive
+    System: qemu + virt-manager + ebtables + Timeshift + MultiWriter + HardInfo
+    Utilities: Gnome Disks + scrcpy + redshift-gtk
+    Other: fish-shell kitty neofetch piper solaar
+    Git: rpcs3
+    Snap: Ice Drive
 
 Microphone:
 - sudo nano /etc/pulse/default.pa
 - (search echo) load-module module-echo-cancel
 - pulseaudio -k
 
-Bluetooth:
-- pulseaudio-bluetooth bluez bluez-utils
-- nano /etc/pulse/system.pa
-- load-module module-bluetooth-policy + module-bluetooth-discover
-- bluetoothctl
-
-Pulseaudio:
-- bluetooth-manager
-- pavucontrol
-- pulseaudio
-- pulseaudio-alsa
-- pasystray
-- pulseaudio --check, -D
-
 Logitech:
 - piper
 - solaar
-
-RSS feeds:
--CSS: CSS tricks, Hackernoon CSS
--JS: reactjs, vuejs news, echojs, hackernoon react
--Web: dev.to, Hackernoon, dailydevlinks, Hackernoon coding
-
 
 ANDROID: -> CalyxOS (private dns.adguard.com) + FDroid + Youtube Vanced Manager (microg + vanced + music)
 
