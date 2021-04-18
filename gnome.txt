@@ -26,8 +26,7 @@ TO INSTALL: (https://wiki.gnome.org/Apps)
     System: qemu + virt-manager + ebtables + Timeshift + MultiWriter + HardInfo
     Utilities: Gnome Disks + scrcpy + redshift-gtk
     Other: fish-shell kitty neofetch piper solaar
-    Git: rpcs3
-    Snap: Ice Drive
+    Snap: rpcs3 icedrive pop-themes (commands on snap install page)
 
 Microphone:
 - sudo nano /etc/pulse/default.pa
