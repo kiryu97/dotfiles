@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Feeds" text="Feeds" description="Feeds" type="folder">
+      <outline title="Dev" text="Dev" description="Dev" type="folder">
+        <outline title="JS" text="JS" description="JS" type="folder">
+          <outline title="ReactScript" text="ReactScript" description="ReactScript" type="rss" xmlUrl="https://feeds.feedburner.com/ReactjsComponents?format=xml" htmlUrl="https://reactscript.com"/>
+          <outline title="Vue.js Developers Blog" text="Vue.js Developers Blog" description="Vue.js Developers Blog" type="rss" xmlUrl="https://vuejsdevelopers.com/feed.xml" htmlUrl="https://vuejsdevelopers.com"/>
+          <outline title="Vue.js Examples" text="Vue.js Examples" description="Vue.js Examples" type="rss" xmlUrl="https://vuejsexamples.com/rss/" htmlUrl="https://vuejsexamples.com/"/>
+          <outline title="Echo JS" text="Echo JS" description="Echo JS" type="rss" xmlUrl="https://www.echojs.com/rss" htmlUrl="&#10;http://www.echojs.com"/>
+        </outline>
+        <outline title="CSS" text="CSS" description="CSS" type="folder">
+          <outline title="CSS-Tricks" text="CSS-Tricks" description="CSS-Tricks" type="rss" xmlUrl="file:///tmp/mozilla_loki0/KwcV1dFN" htmlUrl="https://css-tricks.com"/>
+        </outline>
+        <outline title="Web" text="Web" description="Web" type="folder">
+          <outline title="Hacker Noon" text="Hacker Noon" description="Hacker Noon" type="rss" xmlUrl="file:///tmp/mozilla_loki0/feed" htmlUrl="http://github.com/dylang/node-rss"/>
+          <outline title="DEV Community" text="DEV Community" description="DEV Community" type="rss" xmlUrl="file:///tmp/mozilla_loki0/9BHwSU7h" htmlUrl="https://dev.to"/>
+          <outline title="dailydevlinks" text="dailydevlinks" description="dailydevlinks" type="rss" xmlUrl="https://dailydevlinks.com/feed/" htmlUrl="https://dailydevlinks.com"/>
+        </outline>
+      </outline>
+      <outline title="News" text="News" description="News" type="folder">
+        <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+        <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
+        <outline title="BBC" text="BBC" description="BBC" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=int" htmlUrl="https://www.bbc.co.uk/news/"/>
+        <outline title="Science News" text="Science News" description="Science News" type="rss" xmlUrl="https://www.sciencenews.org/feed" htmlUrl="https://www.sciencenews.org"/>
+      </outline>
+      <outline title="Knowledge" text="Knowledge" description="Knowledge" type="folder">
+        <outline title="Aeon" text="Aeon" description="Aeon" type="rss" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co/"/>
+        <outline title="Quanta Magazine" text="Quanta Magazine" description="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org"/>
+      </outline>
+      <outline title="Open Source" text="Open Source" description="Open Source" type="folder"/>
+      <outline title="Comics" text="Comics" description="Comics" type="folder">
+        <outline title="xkcd" text="xkcd" description="xkcd" type="atom" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
