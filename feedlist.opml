@@ -21,6 +21,11 @@
           <outline title="dailydevlinks" text="dailydevlinks" description="dailydevlinks" type="rss" xmlUrl="https://dailydevlinks.com/feed/" htmlUrl="https://dailydevlinks.com"/>
         </outline>
       </outline>
+      <outline title="CyberSec" text="CyberSec" description="CyberSec" type="folder">
+        <outline title="The Daily Swig | Cybersecurity news and views" text="The Daily Swig | Cybersecurity news and views" description="The Daily Swig | Cybersecurity news and views" type="rss" xmlUrl="https://portswigger.net/daily-swig/rss" htmlUrl="https://portswigger.net/daily-swig"/>
+        <outline title="Threatpost" text="Threatpost" description="Threatpost" type="rss" xmlUrl="file:///tmp/mozilla_loki0/RABj8a0m" htmlUrl="https://threatpost.com"/>
+        <outline title="SecurityWeek RSS Feed" text="SecurityWeek RSS Feed" description="SecurityWeek RSS Feed" type="rss" xmlUrl="https://feeds.feedburner.com/securityweek" htmlUrl="https://www.securityweek.com"/>
+      </outline>
       <outline title="News" text="News" description="News" type="folder">
         <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
         <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
