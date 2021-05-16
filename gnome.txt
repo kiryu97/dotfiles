@@ -27,6 +27,9 @@ TO INSTALL: (https://wiki.gnome.org/Apps)
     Utilities: Gnome Disks + scrcpy + redshift-gtk
     Other: fish-shell kitty neofetch piper solaar
     Snap: rpcs3 icedrive pop-themes (commands on snap install page)
+   
+Brave Browser: official site
+Jetbrains toolbox: official site
 
 Microphone:
 - sudo nano /etc/pulse/default.pa
