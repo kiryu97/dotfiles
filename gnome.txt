@@ -23,13 +23,13 @@ TO INSTALL: (https://wiki.gnome.org/Apps)
     Internet: Firefox + Chromium + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Liferea + Steam
     Multimedia: Clipgrab + Handbrake + OBS Studio + VLC + Gimp
     Office: LibreOffice + Evince
-    System: qemu + virt-manager + ebtables + Timeshift + MultiWriter + HardInfo
+    System: qemu + virt-manager + ebtables + MultiWriter + HardInfo + Deja-Dup
     Utilities: Gnome Disks + scrcpy + redshift-gtk
     Other: fish-shell kitty neofetch piper solaar
-    Snap: rpcs3 icedrive pop-themes (commands on snap install page)
+    Snap: rpcs3 icedrive pop-themes (commands on snap install page) discord
    
 Brave Browser: official site
-Jetbrains toolbox: official site
+Jetbrains toolbox: official site (make brave default browser to login)
 
 Microphone:
 - sudo nano /etc/pulse/default.pa
