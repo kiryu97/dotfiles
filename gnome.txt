@@ -14,19 +14,25 @@ LINUX:
 	-Firefox Relay
 	-I don't care about cookies
 	-Dark Reader
+Brave
+-uBlock Origin
+-Bitwarden
+-I don't care about cookies
+-Dark Reader
 
 
 TO INSTALL: (https://wiki.gnome.org/Apps)
-    Distro: Ubuntu
-    DEVELOPMENT: Atom + pluma + Jetbrains Toolbox (CLion + DataGrip + PyCharm + WebStorm) + Virtualbox
-    Graphics: Flameshot
-    Internet: Firefox + Chromium + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Liferea + Steam
-    Multimedia: Clipgrab + Handbrake + OBS Studio + VLC + Gimp
+    Distro: PopOS
+    DEVELOPMENT: Visual Studio Code + pluma + Jetbrains Toolbox (CLion + DataGrip + PyCharm + WebStorm + PHPStorm) + Virtualbox
+    Graphics: Flameshot + Gimp
+    Internet: Firefox + Brave + Thunderbird + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Steam
+    Multimedia: Clipgrab + Handbrake + OBS Studio + VLC + Calibre
     Office: LibreOffice + Evince
     System: qemu + virt-manager + ebtables + MultiWriter + HardInfo + Deja-Dup
-    Utilities: Gnome Disks + scrcpy + redshift-gtk
-    Other: fish-shell kitty neofetch piper solaar
-    Snap: rpcs3 icedrive pop-themes (commands on snap install page) discord
+    Utilities: Gnome Disks + scrcpy
+    Other: fish-shell neofetch piper solaar
+    Snap: icedrive pop-themes (commands on snap install page) discord
+    AppImages: rpcs3 (official)
    
 Brave Browser: official site
 Jetbrains toolbox: official site (make brave default browser to login)
@@ -40,9 +46,7 @@ Logitech:
 - piper
 - solaar
 
-ANDROID: -> CalyxOS (private dns.adguard.com) + FDroid + Youtube Vanced Manager (microg + vanced + music)
+ANDROID: -> (private dns.adguard.com) + FDroid + Youtube Vanced Manager (vanced + music)
 
--Fdroid: AnySoftKeyboard, Aurora Store, Bitwarden, Bromite, Dawn, Editor, Etar, Feeder, Fennec, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, QKSMS, QR Scanner, Tachiyomi (mangasee)
--Aurora Store: Amazon, Bank, Chrome, DroidCam, Ebay, Excel, Hype, Icedrive, IKEA, Linkedin, Google Maps, Notebloc, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Prime Video, Protonmail, Ratio Blloc, Relay, Rocketbook, Shazam, Slack, Steam, Teams, Telegram, TickTick, WhatsApp
-
-https://www.youtube.com/watch?v=7Pe-Cv0tnLs
+-Fdroid: AnySoftKeyboard, Aurora Store, Bitwarden, Editor, Etar, Feeder, Fennec, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, QKSMS, QR Scanner, Tachiyomi (mangasee)
+-Aurora Store: Amazon, Bank, Brave, Discord, DroidCam, Ebay, Excel, Github, Hype, Icedrive, IKEA, Linkedin, Google Maps, Notebloc, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Protonmail, Relay, Rocketbook, Shazam, Slack, Steam, Teams, Telegram, TickTick, WhatsApp, Zoom
