@@ -49,4 +49,4 @@ Logitech:
 ANDROID: -> (private dns.adguard.com) + FDroid + Youtube Vanced Manager (vanced + music)
 
 -Fdroid: AnySoftKeyboard, Aurora Store, Bitwarden, Editor, Etar, Feeder, Fennec, Forecastie, Gadgetbridge, Simple Gallery, KDE Connect, QKSMS, QR Scanner, Tachiyomi (mangasee)
--Aurora Store: Amazon, Bank, Brave, Discord, DroidCam, Ebay, Excel, Github, Hype, Icedrive, IKEA, Linkedin, Google Maps, Notebloc, Notion, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Protonmail, Relay, Rocketbook, Shazam, Slack, Steam, Teams, Telegram, TickTick, WhatsApp, Zoom, (Boxer / Spike / Spark)
+-Aurora Store: Amazon, Bank, Brave, Discord, DroidCam, Ebay, Excel, Github, Hype, Icedrive, IKEA, Linkedin, Google Maps, Notebloc, Notion, Old Wild West, OneDrive, Oujo for AniList, Outlook, Paypal, PosteID, Protonmail, Relay, Rocketbook, Shazam, Slack, Spike, Steam, Teams, Telegram, TickTick, WhatsApp, Zoom
