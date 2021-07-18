@@ -34,6 +34,15 @@ TO INSTALL: (https://wiki.gnome.org/Apps)
     Snap: icedrive pop-themes (commands on snap install page) discord
     AppImages: rpcs3 (official)
     Official site: Brave Browser, Jetbrains toolbox, VMWare Player
+    
+MongoDB:
+- instructions on official site
+- download tgz for Ubuntu 20.04
+- put bin anywhere
+- add bin to PATH: set -U fish_user_paths <path_to_bin>/bin $fish_user_paths
+- create /data/db folder and set owner with chown
+- run mongod to listen
+- run mongo to do CRUD operations on DB
    
 Microphone:
 - sudo nano /etc/pulse/default.pa
