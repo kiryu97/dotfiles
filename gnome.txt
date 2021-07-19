@@ -25,13 +25,14 @@ TO INSTALL: (https://wiki.gnome.org/Apps)
     Distro: PopOS
     DEVELOPMENT: Visual Studio Code + pluma + Jetbrains Toolbox (CLion + DataGrip + PyCharm + WebStorm + PHPStorm) + Virtualbox
     Graphics: Flameshot + Gimp
-    Internet: Thunderbird + KDE Connect + Remmina + qBittorrent + Telegram Desktop + Steam
+    Internet: Thunderbird + KDE Connect + Remmina + qBittorrent + Steam
     Multimedia: Clipgrab + Handbrake + OBS Studio + VLC + Calibre
     Office: LibreOffice + Evince
     System: MultiWriter + HardInfo + Deja-Dup
     Utilities: Gnome Disks + scrcpy
     Other: fish-shell neofetch piper solaar
     Snap: icedrive pop-themes (commands on snap install page) discord
+    Flatpak: Telegram Desktop
     AppImages: rpcs3 (official)
     Official site: Brave Browser, Jetbrains toolbox, VMWare Player
     
