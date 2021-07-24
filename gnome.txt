@@ -44,6 +44,7 @@ MongoDB:
 - create /data/db folder and set owner with chown
 - run mongod to listen
 - run mongo to do CRUD operations on DB
+- install mongodb-compass (apt)
    
 Microphone:
 - sudo nano /etc/pulse/default.pa
