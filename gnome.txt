@@ -29,7 +29,7 @@ TO INSTALL: (https://wiki.gnome.org/Apps)
     Multimedia: Clipgrab + Handbrake + OBS Studio + VLC + Calibre
     Office: LibreOffice + Evince
     System: MultiWriter + HardInfo + Deja-Dup
-    Utilities: Gnome Disks + scrcpy
+    Utilities: Gnome Disks + scrcpy + mangohud + goverlay
     Other: fish-shell neofetch piper solaar
     Snap: icedrive pop-themes (commands on snap install page) discord
     Flatpak: Telegram Desktop
